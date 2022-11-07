@@ -1,1 +1,3 @@
-# My-first-website
+# Simple static website
+
+A full static website using only HTML and CSS .
